@@ -35,7 +35,7 @@
         "graphql": "^16.5.0",
         "graphql-request": "^5.0.0",
         "isomorphic-fetch": "^3.0.0",
-        "jquery": "^3.6.0",
+        "jquery": "^3.6.3",
         "jquery-circle-progress": "^1.2.2",
         "jquery-steps": "^1.1.0",
         "method-override": "^3.0.0",
