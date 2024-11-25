@@ -46,7 +46,7 @@
         "node-abi": "^3.28.0",
         "node-docker-api": "^1.1.22",
         "node-pty": "^0.10.1",
-        "node-schedule": "^2.1.0",
+        "node-schedule": "^2.1.1",
         "node-stream-zip": "^1.15.0",
         "platform-folders": "0.6.0",
         "popper.js": "^1.16.1",
